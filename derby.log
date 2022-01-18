@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 04 02:36:35 NZST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015c-6e62-e9e6-00000e60ddf0 
+on database directory /Users/mitchell/Google Drive/Programming/Programming 3/Bubble Breaker/ScoreDB with class loader sun.misc.Launcher$AppClassLoader@6d6f6e28 
+Loaded from file:/Users/mitchell/Google%20Drive/Programming/Programming%203/Bubble%20Breaker/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=/Users/mitchell/Google Drive/Programming/Programming 3/Bubble Breaker
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
